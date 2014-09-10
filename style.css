@@ -1,0 +1,77 @@
+body {
+    background-image: url("img/Series-Solid-Background2.jpg");
+    background-repeat: repeat-x;
+    background-position: center top;
+    background-attachment: scroll;
+}
+.idf {
+    color: navy;
+    font-family: Arial;
+    font-size: 15px;
+    background-color: red;
+    
+     }
+.h4 {
+	color:orange;
+	text-align: center;
+
+  }
+.para2
+  {
+      color: white;
+      background-color: blue;
+      font-size: 15px;
+
+  }
+.para1
+  {
+	font-family: "Arial";
+	font-size: 20px;
+   
+  font-weight: 15em; 
+ }
+
+ .bc {
+ 	background-color: black;
+
+ }
+h1{
+ 	font
+ 	border-bottom-color: white;
+ 	background-color: green;
+  border-right-color: blue;
+
+
+
+ }
+p {
+ 	background-color: blue;
+ 	color: white;
+
+ }
+div {
+ 	background-color: yellow;
+ }
+
+.fontsize {
+  font-size: 10px;
+  font-style: normal;
+ }
+/* Hyperlinks */
+a:link {
+  color:blue;
+   background-color: #B2FF99;
+ }
+ a:visited {
+ color: green; 
+ background-color: #FFFF85;
+ }
+a:hover {
+  color: purple;
+  background-color: #FF704D;
+
+}
+a:active {
+  color: black;
+  background-color: #FF704D;
+}
